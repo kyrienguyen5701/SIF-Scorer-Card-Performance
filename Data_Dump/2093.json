@@ -1,0 +1,338 @@
+{
+    "id": 1392,
+    "name": "Aqours' Future",
+    "skill_name_asset": "-",
+    "max_level": 8,
+    "skill_effect_type": 11,
+    "discharge_type": 1,
+    "trigger_type": 3,
+    "unit_skill_level_up_pattern_id": 3,
+    "release_tag": null,
+    "_encryption_release_id": null,
+    "created_at": "2019-09-16 21:39:04",
+    "updated_at": "2019-09-16 21:39:04",
+    "unit_skill_levels": [
+        {
+            "id": 17155,
+            "unit_skill_id": 1392,
+            "skill_level": 1,
+            "description": "For every 21 Rhythm Icons, there's a 24% chance you'll gain 450 Score points.",
+            "effect_range": 3,
+            "effect_value": 450,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 24,
+            "grant_exp": 300,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17156,
+            "unit_skill_id": 1392,
+            "skill_level": 2,
+            "description": "For every 21 Rhythm Icons, there's a 27% chance you'll gain 490 Score points.",
+            "effect_range": 3,
+            "effect_value": 490,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 27,
+            "grant_exp": 600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17157,
+            "unit_skill_id": 1392,
+            "skill_level": 3,
+            "description": "For every 21 Rhythm Icons, there's a 30% chance you'll gain 530 Score points.",
+            "effect_range": 3,
+            "effect_value": 530,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 30,
+            "grant_exp": 1200,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17158,
+            "unit_skill_id": 1392,
+            "skill_level": 4,
+            "description": "For every 21 Rhythm Icons, there's a 33% chance you'll gain 570 Score points.",
+            "effect_range": 3,
+            "effect_value": 570,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 33,
+            "grant_exp": 1800,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17159,
+            "unit_skill_id": 1392,
+            "skill_level": 5,
+            "description": "For every 21 Rhythm Icons, there's a 36% chance you'll gain 610 Score points.",
+            "effect_range": 3,
+            "effect_value": 610,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 36,
+            "grant_exp": 2700,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17160,
+            "unit_skill_id": 1392,
+            "skill_level": 6,
+            "description": "For every 21 Rhythm Icons, there's a 39% chance you'll gain 650 Score points.",
+            "effect_range": 3,
+            "effect_value": 650,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 39,
+            "grant_exp": 3600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17161,
+            "unit_skill_id": 1392,
+            "skill_level": 7,
+            "description": "For every 21 Rhythm Icons, there's a 42% chance you'll gain 690 Score points.",
+            "effect_range": 3,
+            "effect_value": 690,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 42,
+            "grant_exp": 4500,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17162,
+            "unit_skill_id": 1392,
+            "skill_level": 8,
+            "description": "For every 21 Rhythm Icons, there's a 45% chance you'll gain 730 Score points.",
+            "effect_range": 3,
+            "effect_value": 730,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 45,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17163,
+            "unit_skill_id": 1392,
+            "skill_level": 9,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 805,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 45,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17164,
+            "unit_skill_id": 1392,
+            "skill_level": 10,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 960,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 45,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17165,
+            "unit_skill_id": 1392,
+            "skill_level": 11,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 1190,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 45,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17166,
+            "unit_skill_id": 1392,
+            "skill_level": 12,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 1495,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 45,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17167,
+            "unit_skill_id": 1392,
+            "skill_level": 13,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 1580,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 45,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        },
+        {
+            "id": 17168,
+            "unit_skill_id": 1392,
+            "skill_level": 14,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 1750,
+            "discharge_time": 0,
+            "trigger_value": 21,
+            "activation_rate": 45,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-09-16 21:39:02",
+            "updated_at": "2019-09-16 21:39:02"
+        }
+    ],
+    "unit_skill_level_up_pattern": [
+        {
+            "id": 17,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 1,
+            "next_exp": 200,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 1392,
+                "unit_skill_level_up_pattern_id": 17
+            }
+        },
+        {
+            "id": 18,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 2,
+            "next_exp": 600,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 1392,
+                "unit_skill_level_up_pattern_id": 18
+            }
+        },
+        {
+            "id": 19,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 3,
+            "next_exp": 1400,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 1392,
+                "unit_skill_level_up_pattern_id": 19
+            }
+        },
+        {
+            "id": 20,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 4,
+            "next_exp": 2600,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 1392,
+                "unit_skill_level_up_pattern_id": 20
+            }
+        },
+        {
+            "id": 21,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 5,
+            "next_exp": 5000,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 1392,
+                "unit_skill_level_up_pattern_id": 21
+            }
+        },
+        {
+            "id": 22,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 6,
+            "next_exp": 8200,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 1392,
+                "unit_skill_level_up_pattern_id": 22
+            }
+        },
+        {
+            "id": 23,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 7,
+            "next_exp": 12700,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 1392,
+                "unit_skill_level_up_pattern_id": 23
+            }
+        },
+        {
+            "id": 24,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 8,
+            "next_exp": 0,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 1392,
+                "unit_skill_level_up_pattern_id": 24
+            }
+        }
+    ]
+}

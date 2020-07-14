@@ -1,0 +1,338 @@
+{
+    "id": 554,
+    "name": "The Real Deal!?",
+    "skill_name_asset": "-",
+    "max_level": 8,
+    "skill_effect_type": 11,
+    "discharge_type": 1,
+    "trigger_type": 4,
+    "unit_skill_level_up_pattern_id": 3,
+    "release_tag": null,
+    "_encryption_release_id": null,
+    "created_at": "2017-01-06 10:04:54",
+    "updated_at": "2018-03-27 14:14:13",
+    "unit_skill_levels": [
+        {
+            "id": 4206,
+            "unit_skill_id": 554,
+            "skill_level": 1,
+            "description": "For every 23 Combo, there's a 39% chance you'll gain 500 Score points.",
+            "effect_range": 3,
+            "effect_value": 500,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 39,
+            "grant_exp": 300,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2017-01-06 10:04:53",
+            "updated_at": "2017-01-06 10:04:53"
+        },
+        {
+            "id": 4207,
+            "unit_skill_id": 554,
+            "skill_level": 2,
+            "description": "For every 23 Combo, there's a 42% chance you'll gain 700 Score points.",
+            "effect_range": 3,
+            "effect_value": 700,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 42,
+            "grant_exp": 600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2017-01-06 10:04:53",
+            "updated_at": "2019-03-11 18:22:08"
+        },
+        {
+            "id": 4208,
+            "unit_skill_id": 554,
+            "skill_level": 3,
+            "description": "For every 23 Combo, there's a 45% chance you'll gain 900 Score points.",
+            "effect_range": 3,
+            "effect_value": 900,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 45,
+            "grant_exp": 1200,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2017-01-06 10:04:53",
+            "updated_at": "2019-03-11 18:22:08"
+        },
+        {
+            "id": 4209,
+            "unit_skill_id": 554,
+            "skill_level": 4,
+            "description": "For every 23 Combo, there's a 48% chance you'll gain 1100 Score points.",
+            "effect_range": 3,
+            "effect_value": 1100,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 48,
+            "grant_exp": 1800,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2017-01-06 10:04:53",
+            "updated_at": "2019-03-11 18:22:08"
+        },
+        {
+            "id": 4210,
+            "unit_skill_id": 554,
+            "skill_level": 5,
+            "description": "For every 23 Combo, there's a 51% chance you'll gain 1300 Score points.",
+            "effect_range": 3,
+            "effect_value": 1300,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 51,
+            "grant_exp": 2700,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2017-01-06 10:04:53",
+            "updated_at": "2019-03-11 18:22:08"
+        },
+        {
+            "id": 4211,
+            "unit_skill_id": 554,
+            "skill_level": 6,
+            "description": "For every 23 Combo, there's a 54% chance you'll gain 1500 Score points.",
+            "effect_range": 3,
+            "effect_value": 1500,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 54,
+            "grant_exp": 3600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2017-01-06 10:04:53",
+            "updated_at": "2019-03-11 18:22:08"
+        },
+        {
+            "id": 4212,
+            "unit_skill_id": 554,
+            "skill_level": 7,
+            "description": "For every 23 Combo, there's a 57% chance you'll gain 1700 Score points.",
+            "effect_range": 3,
+            "effect_value": 1700,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 57,
+            "grant_exp": 4500,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2017-01-06 10:04:53",
+            "updated_at": "2019-03-11 18:22:08"
+        },
+        {
+            "id": 4213,
+            "unit_skill_id": 554,
+            "skill_level": 8,
+            "description": "For every 23 Combo, there's a 60% chance you'll gain 1900 Score points.",
+            "effect_range": 3,
+            "effect_value": 1900,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 60,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2017-01-06 10:04:53",
+            "updated_at": "2019-03-11 18:22:08"
+        },
+        {
+            "id": 12189,
+            "unit_skill_id": 554,
+            "skill_level": 9,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 2075,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 60,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-06-04 17:36:09",
+            "updated_at": "2019-06-04 17:36:09"
+        },
+        {
+            "id": 12190,
+            "unit_skill_id": 554,
+            "skill_level": 10,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 2425,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 60,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-06-04 17:36:09",
+            "updated_at": "2019-06-04 17:36:09"
+        },
+        {
+            "id": 12191,
+            "unit_skill_id": 554,
+            "skill_level": 11,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 2950,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 60,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-06-04 17:36:09",
+            "updated_at": "2019-06-04 17:36:09"
+        },
+        {
+            "id": 12192,
+            "unit_skill_id": 554,
+            "skill_level": 12,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 3645,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 60,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-06-04 17:36:09",
+            "updated_at": "2019-06-04 17:36:09"
+        },
+        {
+            "id": 12193,
+            "unit_skill_id": 554,
+            "skill_level": 13,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 3860,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 60,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-06-04 17:36:09",
+            "updated_at": "2019-06-04 17:36:09"
+        },
+        {
+            "id": 12194,
+            "unit_skill_id": 554,
+            "skill_level": 14,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 4285,
+            "discharge_time": 0,
+            "trigger_value": 23,
+            "activation_rate": 60,
+            "grant_exp": 6600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-06-04 17:36:09",
+            "updated_at": "2019-06-04 17:36:09"
+        }
+    ],
+    "unit_skill_level_up_pattern": [
+        {
+            "id": 17,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 1,
+            "next_exp": 200,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 554,
+                "unit_skill_level_up_pattern_id": 17
+            }
+        },
+        {
+            "id": 18,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 2,
+            "next_exp": 600,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 554,
+                "unit_skill_level_up_pattern_id": 18
+            }
+        },
+        {
+            "id": 19,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 3,
+            "next_exp": 1400,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 554,
+                "unit_skill_level_up_pattern_id": 19
+            }
+        },
+        {
+            "id": 20,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 4,
+            "next_exp": 2600,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 554,
+                "unit_skill_level_up_pattern_id": 20
+            }
+        },
+        {
+            "id": 21,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 5,
+            "next_exp": 5000,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 554,
+                "unit_skill_level_up_pattern_id": 21
+            }
+        },
+        {
+            "id": 22,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 6,
+            "next_exp": 8200,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 554,
+                "unit_skill_level_up_pattern_id": 22
+            }
+        },
+        {
+            "id": 23,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 7,
+            "next_exp": 12700,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-12-08 18:01:33",
+            "pivot": {
+                "unit_skill_id": 554,
+                "unit_skill_level_up_pattern_id": 23
+            }
+        },
+        {
+            "id": 24,
+            "unit_skill_level_up_pattern_id": 3,
+            "skill_level": 8,
+            "next_exp": 0,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 554,
+                "unit_skill_level_up_pattern_id": 24
+            }
+        }
+    ]
+}

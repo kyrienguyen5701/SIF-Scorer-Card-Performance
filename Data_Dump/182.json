@@ -1,0 +1,290 @@
+{
+    "id": 91,
+    "name": "Angel? Nurse?",
+    "skill_name_asset": "-",
+    "max_level": 8,
+    "skill_effect_type": 11,
+    "discharge_type": 1,
+    "trigger_type": 5,
+    "unit_skill_level_up_pattern_id": 2,
+    "release_tag": null,
+    "_encryption_release_id": null,
+    "created_at": "2016-11-17 02:40:09",
+    "updated_at": "2018-03-27 14:14:11",
+    "unit_skill_levels": [
+        {
+            "id": 657,
+            "unit_skill_id": 91,
+            "skill_level": 1,
+            "description": "For every 18000 points earned, there's a 14% chance you'll gain 1250 points.",
+            "effect_range": 3,
+            "effect_value": 1250,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 14,
+            "grant_exp": 100,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2016-11-17 02:40:02",
+            "updated_at": "2016-12-08 18:01:28"
+        },
+        {
+            "id": 658,
+            "unit_skill_id": 91,
+            "skill_level": 2,
+            "description": "For every 18000 points earned, there's a 15% chance you'll gain 1375 Score points.",
+            "effect_range": 3,
+            "effect_value": 1375,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 15,
+            "grant_exp": 200,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2016-11-17 02:40:02",
+            "updated_at": "2019-03-11 18:22:04"
+        },
+        {
+            "id": 659,
+            "unit_skill_id": 91,
+            "skill_level": 3,
+            "description": "For every 18000 points earned, there's a 16% chance you'll gain 1500 Score points.",
+            "effect_range": 3,
+            "effect_value": 1500,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 16,
+            "grant_exp": 400,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2016-11-17 02:40:02",
+            "updated_at": "2019-03-11 18:22:04"
+        },
+        {
+            "id": 660,
+            "unit_skill_id": 91,
+            "skill_level": 4,
+            "description": "For every 18000 points earned, there's a 17% chance you'll gain 1625 Score points.",
+            "effect_range": 3,
+            "effect_value": 1625,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 17,
+            "grant_exp": 600,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2016-11-17 02:40:02",
+            "updated_at": "2019-03-11 18:22:04"
+        },
+        {
+            "id": 661,
+            "unit_skill_id": 91,
+            "skill_level": 5,
+            "description": "For every 18000 points earned, there's an 18% chance you'll gain 1750 Score points.",
+            "effect_range": 3,
+            "effect_value": 1750,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 18,
+            "grant_exp": 900,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2016-11-17 02:40:02",
+            "updated_at": "2019-03-11 18:22:04"
+        },
+        {
+            "id": 662,
+            "unit_skill_id": 91,
+            "skill_level": 6,
+            "description": "For every 18000 points earned, there's a 19% chance you'll gain 1875 Score points.",
+            "effect_range": 3,
+            "effect_value": 1875,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 19,
+            "grant_exp": 1200,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2016-11-17 02:40:02",
+            "updated_at": "2019-03-11 18:22:04"
+        },
+        {
+            "id": 663,
+            "unit_skill_id": 91,
+            "skill_level": 7,
+            "description": "For every 18000 points earned, there's a 20% chance you'll gain 2000 Score points.",
+            "effect_range": 3,
+            "effect_value": 2000,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 20,
+            "grant_exp": 1500,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2016-11-17 02:40:02",
+            "updated_at": "2019-03-11 18:22:04"
+        },
+        {
+            "id": 664,
+            "unit_skill_id": 91,
+            "skill_level": 8,
+            "description": "For every 18000 points earned, there's a 21% chance you'll gain 2190 Score points.",
+            "effect_range": 3,
+            "effect_value": 2190,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 21,
+            "grant_exp": 2200,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2016-11-17 02:40:02",
+            "updated_at": "2019-03-11 18:22:04"
+        },
+        {
+            "id": 10417,
+            "unit_skill_id": 91,
+            "skill_level": 9,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 2300,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 21,
+            "grant_exp": 2200,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-06-04 17:36:04",
+            "updated_at": "2019-06-04 17:36:04"
+        },
+        {
+            "id": 10418,
+            "unit_skill_id": 91,
+            "skill_level": 10,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 2520,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 21,
+            "grant_exp": 2200,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-06-04 17:36:04",
+            "updated_at": "2019-06-04 17:36:04"
+        },
+        {
+            "id": 10419,
+            "unit_skill_id": 91,
+            "skill_level": 11,
+            "description": "-",
+            "effect_range": 3,
+            "effect_value": 2845,
+            "discharge_time": 0,
+            "trigger_value": 18000,
+            "activation_rate": 21,
+            "grant_exp": 2200,
+            "release_tag": null,
+            "_encryption_release_id": null,
+            "created_at": "2019-06-04 17:36:04",
+            "updated_at": "2019-06-04 17:36:04"
+        }
+    ],
+    "unit_skill_level_up_pattern": [
+        {
+            "id": 9,
+            "unit_skill_level_up_pattern_id": 2,
+            "skill_level": 1,
+            "next_exp": 100,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 91,
+                "unit_skill_level_up_pattern_id": 9
+            }
+        },
+        {
+            "id": 10,
+            "unit_skill_level_up_pattern_id": 2,
+            "skill_level": 2,
+            "next_exp": 300,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 91,
+                "unit_skill_level_up_pattern_id": 10
+            }
+        },
+        {
+            "id": 11,
+            "unit_skill_level_up_pattern_id": 2,
+            "skill_level": 3,
+            "next_exp": 700,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 91,
+                "unit_skill_level_up_pattern_id": 11
+            }
+        },
+        {
+            "id": 12,
+            "unit_skill_level_up_pattern_id": 2,
+            "skill_level": 4,
+            "next_exp": 1300,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 91,
+                "unit_skill_level_up_pattern_id": 12
+            }
+        },
+        {
+            "id": 13,
+            "unit_skill_level_up_pattern_id": 2,
+            "skill_level": 5,
+            "next_exp": 2200,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 91,
+                "unit_skill_level_up_pattern_id": 13
+            }
+        },
+        {
+            "id": 14,
+            "unit_skill_level_up_pattern_id": 2,
+            "skill_level": 6,
+            "next_exp": 3400,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 91,
+                "unit_skill_level_up_pattern_id": 14
+            }
+        },
+        {
+            "id": 15,
+            "unit_skill_level_up_pattern_id": 2,
+            "skill_level": 7,
+            "next_exp": 4900,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 91,
+                "unit_skill_level_up_pattern_id": 15
+            }
+        },
+        {
+            "id": 16,
+            "unit_skill_level_up_pattern_id": 2,
+            "skill_level": 8,
+            "next_exp": 0,
+            "created_at": "2016-11-17 02:40:09",
+            "updated_at": "2016-11-17 02:40:09",
+            "pivot": {
+                "unit_skill_id": 91,
+                "unit_skill_level_up_pattern_id": 16
+            }
+        }
+    ]
+}
